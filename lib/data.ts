@@ -1,3 +1,27 @@
+export const links = [
+  {
+    name: 'Home',
+    hash: '#home',
+  },
+  {
+    name: 'About',
+    hash: '#about',
+  },
+  {
+    name: 'Projects',
+    hash: '#projects',
+  },
+  {
+    name: 'education',
+    hash: '#education',
+  },
+  {
+    name: 'Contact',
+    hash: '#contact',
+  },
+] as const;
+
+
 export const EducationData = [
   {
     title: 'Baccalaureate in Physical Sciences',
@@ -21,3 +45,5 @@ export const EducationData = [
     date: '2022 - Present',
   },
 ] as const;
+
+export type SectionName = "Home" | "About" | "Projects" | "Experience" | "Contact" | "education";

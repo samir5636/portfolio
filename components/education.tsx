@@ -14,7 +14,7 @@ import { EducationData } from '@/lib/data';
 
 export const Education = () => {
   const { ref, inView } = useInView({ triggerOnce: true });
-  const { ref: sectionRef } = useSectionInView('experience');
+  const { ref: sectionRef } = useSectionInView('education');
 
   return (
     <section ref={sectionRef} id="experience" className="my-10 scroll-mt-28">
