@@ -37,7 +37,7 @@
 /* cards-bg: #141414 */
 /* text on cards-bg: #f5f5f7 */
 :root {
-  --color-background: #33fff0; /* Light mode background */
+  --color-background: #00ACC1; /* Light mode background */
   --color-text: #000;       /* Light mode text */
   --color-icon-background: #0000;
   --border-color: #cccccc;
@@ -45,7 +45,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-background: #33fff0; /* Dark mode background */
+    --color-background: #00ACC1; /* Dark mode background */
     --color-text: #000;       /* Dark mode text */
     --color-icon-background: #333333;
     --border-color: #555555;

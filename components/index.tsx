@@ -1,6 +1,5 @@
 import About from "./About";
 import BackgroundCircles from "./BackgroundCircles";
-import Blogs from "./Blogs";
 import Contact from "./Contact";
 import DarkModeToggle from "./DarkModeToggle";
 import Experience from "./Experience";
@@ -16,7 +15,6 @@ import { Education } from "./education";
 export {
   About,
   BackgroundCircles,
-  Blogs,
   Contact,
   DarkModeToggle,
   Experience,

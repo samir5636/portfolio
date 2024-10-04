@@ -5,7 +5,6 @@ import {
   Experience,
   Skills,
   Projects,
-  Blogs,
   Contact,
   Education,
 } from "@/components";
@@ -43,7 +42,7 @@ export default function Home({ data }: any) {
       </section>
       <ActiveSectionProvider>
       <section
-        id="Education"
+        id="education"
         className="snap-center"
       >
         <Education />
@@ -62,13 +61,6 @@ export default function Home({ data }: any) {
         className="snap-center"
       >
         <Projects data={data.data} />
-      </section>
-
-      <section
-        id="blogs"
-        className="snap-center"
-      >
-        <Blogs />
       </section>
 
       <section

@@ -213,7 +213,7 @@ export default function Projects({ data }: Props) {
         </Swiper>
       </div>
 
-      <div className="w-full absolute top-[27%] bg-gradient-to-r from-blue-500 opacity-70 dark:opacity-30 left-0 h-[500px] -skew-y-12" />
+      <div className="w-full absolute top-[27%] bg-gradient-to-r from-cyan-600 opacity-70 dark:opacity-30 left-0 h-[500px] -skew-y-12" />
     </div>
   );
 }
