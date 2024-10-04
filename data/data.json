@@ -1,0 +1,85 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "ParkingProject-Arduino-Computer-Vision",
+        "content": "Project Embedded System using Aurduino ,Rasberry ,Python,C++, Computer Vision ,and Site Web using Angular.",
+        "imgurl": "/projectSS/Parking.png",
+        "githubLink": "https://github.com/samir5636/ParkingProject-Arduino-Computer-Vision.git",
+        "tech": [
+          {
+            "tech": "/skillsLogos/angular.png"
+          },
+          {
+            "tech": "/skillsLogos/bootstrap.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/c++.png"
+          },
+          {
+            "tech": "/skillsLogos/flask.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "ZOHS Automotive Insurance",
+        "content": "Developed a machine learning-based recommendation system using advanced algorithms, including a stacking model, for recommending insurance types. The project integrated real-time streaming, scheduled model retraining, and deployment pipelines using Kafka, Airflow, Kubeflow, and Azure Cloud.",
+        "imgurl": "/projectSS/zohs.png",
+        "githubLink": "https://github.com/orgs/ZOHSGroupe/repositories",
+        "tech": [
+          {
+            "tech": "/skillsLogos/angular.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/docker.png"
+          },
+          {
+            "tech": "/skillsLogos/spring.png"
+          },
+          {
+            "tech": "/skillsLogos/flask.png"
+          },
+          {
+            "tech": "/skillsLogos/kafka.png"
+          },
+          {
+            "tech": "/skillsLogos/azur.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Yema7D",
+        "content": "Yema7D is a web platform developed to generate didactic mini-scenarios for educational games. It utilizes recurrent autoregressive models to create context-specific scenarios based on provided educational mechanics. The platform is designed to help educators and game developers craft engaging, educational gameplay experiences",
+        "imgurl": "/projectSS/yema7d.png",
+        "githubLink": "https://github.com/Yema7D/RAG-finetuning?tab=readme-ov-file",
+        "tech": [
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/flask.png"
+          },
+          {
+            "tech": "/skillsLogos/docker.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      }
+      
+      
+      
+
+    ]
+  }
+}

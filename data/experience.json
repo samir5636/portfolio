@@ -1,0 +1,24 @@
+{
+  "experience": [
+    {
+      "clogo": "/companyLogo/renault.png",
+      "title": "Industrial IT Intern",
+      "company": "Renault Group",
+      "point1": "Developed an advanced system for detecting employee personal protective equipment (PPE) using computer vision techniques, enhancing safety protocols within the plant.",
+      "point2": "Contributed to automating the monitoring and control of PPE usage in sensitive production areas, improving safety and compliance.",
+      "startDate": "June, 2024",
+      "endDate": "August, 2024"
+    },
+    {
+
+      "clogo": "/companyLogo/fido.png",
+      "title": "Software System Architecture Intern",
+      "company": "Fido.ma",
+      "point1": "Designed the core architecture of a new SaaS platform for a Moroccan startup specializing in online business creation, streamlining the process based on legal frameworks.",
+      "point2": "Developed web applications using Next.js, Spring Boot, Docker, and AWS, offering additional services such as accounting and business management to support new companies.",
+      "startDate": "July, 2024",
+      "endDate": "September, 2024"
+    }
+
+  ]
+}
