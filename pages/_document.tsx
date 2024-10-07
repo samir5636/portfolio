@@ -18,6 +18,7 @@ export default function Document() {
       className={""}
     >
       <Head>
+      <meta name="google-site-verification" content="DozK7IwE0NzDFQrCFgDa48yB-0X0jZvuwQ2MOPGRmQ4" />
         <meta charSet={metadata.charset} />
         <meta
           name="title"
