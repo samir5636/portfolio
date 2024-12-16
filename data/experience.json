@@ -1,14 +1,6 @@
 {
   "experience": [
-    {
-      "clogo": "/companyLogo/renault.png",
-      "title": "Industrial IT Intern",
-      "company": "Renault Group",
-      "point1": "Developed an advanced system for detecting employee personal protective equipment (PPE) using computer vision techniques, enhancing safety protocols within the plant.",
-      "point2": "Contributed to automating the monitoring and control of PPE usage in sensitive production areas, improving safety and compliance.",
-      "startDate": "June, 2024",
-      "endDate": "August, 2024"
-    },
+
     {
 
       "clogo": "/companyLogo/fido.png",
@@ -18,6 +10,15 @@
       "point2": "Developed web applications using Next.js, Spring Boot, Docker, and AWS, offering additional services such as accounting and business management to support new companies.",
       "startDate": "July, 2024",
       "endDate": "September, 2024"
+    },
+    {
+      "clogo": "/companyLogo/renault.png",
+      "title": "Industrial IT Intern",
+      "company": "Renault Group",
+      "point1": "Internship at Renault Tangier, focused on the integration of the Digital WorkStation (DWS) to modernize production lines.",
+      "point2": "Participation in the deployment of connected tablets to improve communication, workstation management and operator efficiency.",
+      "startDate": "June, 2024",
+      "endDate": "August, 2024"
     }
 
   ]
