@@ -24,6 +24,13 @@ export const links = [
 
 export const EducationData = [
   {
+    title: 'Engineering Cycle in Software Engineering and Intelligent Systems',
+    location: 'Faculty of Sciences and Technology of Tangier, Morocco',
+    description:
+      'Currently pursuing an engineering degree, specializing in software engineering and intelligent systems. Engaged in various projects, enhancing skills in full-stack development and data analysis.',
+    date: '2022 - Present',
+  },
+  {
     title: 'Baccalaureate in Physical Sciences',
     location: 'Lycée Ibn Batouta, Larache, Morocco',
     description:
@@ -36,14 +43,8 @@ export const EducationData = [
     description:
       'Acquired fundamental knowledge in mathematics, computer science, physics, and chemistry, essential for pursuing advanced studies in software engineering.',
     date: '2020 - 2022',
-  },
-  {
-    title: 'Engineering Cycle in Software Engineering and Intelligent Systems',
-    location: 'Faculty of Sciences and Technology of Tangier, Morocco',
-    description:
-      'Currently pursuing an engineering degree, specializing in software engineering and intelligent systems. Engaged in various projects, enhancing skills in full-stack development and data analysis.',
-    date: '2022 - Present',
-  },
+  }
+
 ] as const;
 
 export type SectionName = "Home" | "About" | "Projects" | "Experience" | "Contact" | "education";
